@@ -35,6 +35,7 @@ function test() {
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Example Image](project_images/cover.jpg?raw=true "Example Image")
 ![Example Image](project_images/photo 3.JPG?raw=true "Example Image")
 ![Example Image](project_images/photo 2.JPG?raw=true "Example Image")
 ![Example Image](project_images/photo 1.JPG?raw=true "Example Image")
