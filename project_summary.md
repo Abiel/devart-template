@@ -36,7 +36,7 @@ NOTE: For additional images you can either use a relative link to an image on th
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
-![Example Image](project_images/photo 3.JPG?raw=true "Example Image")
+![Example Image](project_images/photo%203.JPG?raw=true "Example Image")
 ![Example Image](project_images/photo 2.JPG?raw=true "Example Image")
 ![Example Image](project_images/photo 1.JPG?raw=true "Example Image")
 
