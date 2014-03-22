@@ -36,8 +36,8 @@ NOTE: For additional images you can either use a relative link to an image on th
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
-![Example Image](project_images/photo%203.JPG?raw=true "Example Image")
-![Example Image](project_images/photo 2.JPG?raw=true "Example Image")
-![Example Image](project_images/photo 1.JPG?raw=true "Example Image")
+![Example Image](project_images/photo3.JPG?raw=true "Example Image")
+![Example Image](project_images/photo2.JPG?raw=true "Example Image")
+![Example Image](project_images/photo1.JPG?raw=true "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
