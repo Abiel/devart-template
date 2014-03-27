@@ -1,10 +1,12 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Maps",
+	    "Google Speech API",
+	    "Google Image Search API"
         ],
         "platforms": [
-            "insert platforms"
+            "Java"
         ],
         "toolkits": [
             "insert toolkits"
