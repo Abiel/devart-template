@@ -1,7 +1,11 @@
-# Clairvoyant (French: clear vision)
+# Clairvoyant - Embrace Human Diversity
+*(Clairvoyant - French: clear vision)*
 
 ## Authors
-- Abiel M. Woldu - https://github.com/Abiel
+- Abiel M. Woldu      (MSc. Computer Science) - https://github.com/Abiel
+- Degol S. Woldegaber (MSc. Computer Science)
+- Yohannes K. Russom  (MSc. Computer Science)
+- Zeregaber M. Woldu  (MSc. Hydraulic Engineering)
 
 ## Description
 Clairvoyant 1.0
