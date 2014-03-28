@@ -1,12 +1,20 @@
 {
     "technologies": {
+        "languages": [
+            "Java",
+            "Javascript",
+            "Jquery",
+            "C++"
+        ],
         "apis": [
             "Google Maps",
-	    "Google Speech API",
-	    "Google Image Search API"
+            "Google Speech API",
+            "Google Image Search API",
+            "Google Translate API",
+            "Wikipedia API"
         ],
         "platforms": [
-            "Java"
+            "raspberry pi"
         ],
         "toolkits": [
             "insert toolkits"
