@@ -4,7 +4,7 @@ Forget about Raspberry Pi and synchronizing display between an array of projecto
 curl "http://en.wikipedia.org/w/api.php?action=query&prop=images&format=json&imlimit=3&titles=madagascar" | python -mjson.tool
 ```
 
-NOTE: Sample Java snippet for speech recognition.
+Response:
 ```
 {
     "query-continue": {
@@ -49,7 +49,7 @@ Google Image Search API with IMAGETYPE_FACES
 curl "https://ajax.googleapis.com/ajax/services/search/images?q=Madagascar%20Faces&v=1.0" | python -mjson.tool
 ```
 
-(truncated results)
+Response (truncated):
 ```
 {
     "responseData": {
@@ -112,5 +112,5 @@ curl "https://ajax.googleapis.com/ajax/services/search/images?q=Madagascar%20Fac
 }
 ```
 
-
+Sample display data on the screens below the sphere.
 ![Diversity data](../project_images/diversity-data.jpg)
