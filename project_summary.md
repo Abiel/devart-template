@@ -9,7 +9,7 @@
 
 ## Description
 Clairvoyant 1.0
-Our diversity, is a feature that could bring variety in our understanding of our socio-cultural interactions, our perception and value of the planet we live in. But, unfortunatelly, diversity is also the root of racism and people not appeciating the different others.
+Our diversity, is a feature that could bring variety in our understanding of our socio-cultural interactions, our perception and value of the planet we live in. But, unfortunatelly, diversity is also the root of racism and people not appreciating the different others.
 Clairvoyant - A spherical ball - an out door installation (radius 2 meters) with rotating map on it that visually takes a user to any part of the world to show a city, the diversity of people in the city and other features of that area.
 A user comes close to the sphere and names a city (verbally in any language) - a microphone in the base of the sphere processes the speech and translates it to english text and feeds the data to google maps api to get the coordinates of the venue/city. The sphere rotates to that location and zooms in to display features of the venue as well as a set of pictures that depict the social diversity of people in that area.
 
@@ -35,6 +35,8 @@ A user comes to one side of clairvoyant (sphere is rotating* at this moment). Th
 
 
 ## Links to External Libraries and References
+http://kml-samples.googlecode.com/svn/trunk/interactive/index.html#./Lines_and_Paths/Line_Strings.Tessellated.kml
+https://developers.google.com/maps/web/
 https://github.com/The-Shadow/java-speech-api
 
 

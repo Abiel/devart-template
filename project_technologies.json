@@ -4,7 +4,8 @@
             "Java",
             "Javascript",
             "Jquery",
-            "C++"
+            "C++",
+            "Python"
         ],
         "apis": [
             "Google Maps",
@@ -14,7 +15,8 @@
             "Wikipedia API"
         ],
         "platforms": [
-            "raspberry pi"
+            "raspberry pi",
+            "Google App Engine"
         ],
         "toolkits": [
             "insert toolkits"

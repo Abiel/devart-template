@@ -23,7 +23,7 @@ NOTE: Sample Java snippet for speech recognition.
 
 ```
 
-## Example Code - 2 (Luke Kuza et. al.)
+## Example Code - 2 
 NOTE: Uses Google Speech API 
 ```
  public GoogleResponse getRecognizedDataForWave(File waveFile, int maxResults) throws IOException{

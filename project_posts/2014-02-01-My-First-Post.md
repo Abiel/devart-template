@@ -1,5 +1,4 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Clairvoyant project starts as part of a DevArt hackaton in Google Campus, Mountainview, CA.
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
-
+A brief intro to DevArt
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
