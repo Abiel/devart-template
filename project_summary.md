@@ -34,29 +34,7 @@ The purpose of Clairvoyant project is to use art and technology to embrace diver
 A user comes to one side of clairvoyant (sphere is rotating* at this moment). The user calls out a city/country/venue name. The sphere stops at that geolocation and zooms in to display detailed features of what was called. Down below  the array of monitors display images of cultural/social diversity, popular spots and history of that geolocation.
 
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+## Links to External Libraries and References
+https://github.com/The-Shadow/java-speech-api
 
-[Example Link](http://www.google.com "Example Link")
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
-
-## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-![Example Image](project_images/photo3.JPG?raw=true "Example Image")
-![Example Image](project_images/photo2.JPG?raw=true "Example Image")
-![Example Image](project_images/photo1.JPG?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
