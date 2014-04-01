@@ -2,10 +2,8 @@
 *(Clairvoyant - French: clear vision)*
 
 ## Authors
-- Abiel M. Woldu      (MSc. Computer Science) - https://github.com/Abiel
-- Degol S. Woldegaber (MSc. Computer Science)
-- Yohannes K. Russom  (MSc. Computer Science)
-- Zeregaber M. Woldu  (MSc. Hydraulic Engineering)
+- Abiel M. Woldu      (MSc. Computer Science) abiel.m.woldu (at) gmail.com - https://github.com/Abiel
+
 
 ## Description
 Clairvoyant 1.0
